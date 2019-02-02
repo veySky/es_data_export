@@ -107,7 +107,7 @@
                     </descriptorRefs>  
                     <archive>  
                         <manifest>  
-                            <mainClass>com.chenhj.App</mainClass>  
+                            <mainClass>com.es.App</mainClass>
                         </manifest>  
                     </archive>  
                 </configuration>  
